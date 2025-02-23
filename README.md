@@ -1,4 +1,4 @@
-# Case Técnico - Analista de Dados 🚀
+# Case Técnico - Analista de Dados 
 
 **Objetivo:** Resolução de um case técnico para vaga de Analista de Dados, envolvendo PostgreSQL, Python (Streamlit) e análise exploratória.  
 **Contexto:** Simulação de um e-commerce fictício com foco em vendas, segmentação de clientes (RFM), detecção de anomalias e otimização de consultas.
